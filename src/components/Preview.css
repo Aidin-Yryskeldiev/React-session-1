@@ -1,0 +1,268 @@
+.text_third {
+	position: relative;
+	top: 100px;
+	margin-left: 150px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 48px;
+}
+
+.text_third span {
+	color: #7421b0;
+}
+
+.text_fourth {
+	color: grey;
+	position: relative;
+	top: 140px;
+	margin-left: 150px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.button_download {
+	width: 235px;
+	height: 70px;
+	color: white;
+	background: linear-gradient(#7421b0 100%, #d08eff 100%);
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	font-size: 16px;
+	position: relative;
+	top: 180px;
+	margin-left: 150px;
+}
+
+.block_border {
+	width: 700px;
+	height: 740px;
+	background: linear-gradient(#8921b0 100%, #d08eff 100%);
+	border-radius: 70px 0px 0px 70px;
+}
+
+.papa {
+	display: flex;
+	justify-content: end;
+	position: relative;
+	top: -300px;
+}
+
+.background {
+	width: 700px;
+	position: relative;
+	top: 70px;
+	right: 100px;
+}
+
+.line {
+	width: 1200px;
+	position: relative;
+	top: -833px;
+}
+
+.text_fifth {
+	position: relative;
+	top: -700px;
+	margin-left: 150px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+}
+
+.text_fifth span {
+	color: #7421b0;
+}
+
+.text_sixth {
+	position: relative;
+	top: -700px;
+	margin-left: 150px;
+	color: grey;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 36px;
+}
+
+.text_sixth span {
+	color: black;
+}
+
+.text_flexbox {
+	display: flex;
+}
+
+.pahan {
+	display: flex;
+	justify-content: center;
+	gap: 30px;
+	position: relative;
+	top: -600px;
+}
+
+.syn {
+	width: 338px;
+	height: 294px;
+	background-color: white;
+	border-radius: 10px;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+.syn:hover {
+	color: white;
+	background-color: #7421b0;
+	transition: all 1s;
+	box-shadow: 10px 10px 20px #8921b0;
+}
+
+.text_seventh {
+	font-size: 28px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.icon {
+	position: relative;
+	top: -50px;
+}
+
+.donut_photo {
+	position: relative;
+	top: -700px;
+}
+
+.line_second {
+	position: relative;
+	top: -530px;
+	width: 1369px;
+}
+
+.blocks {
+	width: 705px;
+	height: 397px;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	top: -650px;
+	margin-left: 120px;
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+}
+
+.text_eight {
+	color: #7421b0;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.text_ninth {
+	position: relative;
+	top: -980px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 900px;
+	font-size: 36px;
+}
+
+.text_tenth {
+	position: relative;
+	top: -980px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: grey;
+	margin-left: 900px;
+	line-height: 32.4px;
+	font-size: 18px;
+}
+
+.text_tenth span {
+	color: #7421b0;
+}
+
+.text_eleventh {
+	position: relative;
+	top: -650px;
+	margin-left: 180px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+}
+
+.text_twelth {
+	position: relative;
+	top: -600px;
+	margin-left: 180px;
+	color: #7421b0;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 32.4px;
+	font-size: 18px;
+}
+
+.text_twelth span {
+	color: grey;
+}
+
+.block {
+	width: 705px;
+	height: 397px;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	top: -910px;
+	margin-left: 700px;
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+	z-index: 10000;
+}
+
+.photo_flex {
+	display: flex;
+	justify-content: end;
+	position: relative;
+	top: -2850px;
+	z-index: 1000;
+}
+
+.cube {
+	position: relative;
+	top: -3700px;
+}
+
+.cube_flex {
+	display: flex;
+	justify-content: center;
+	margin-left: 595px;
+}
+
+.izmurd {
+	position: relative;
+	top: -3350px;
+}
+
+.restange {
+	display: flex;
+	justify-content: end;
+	position: relative;
+	top: -2800px;
+	z-index: 1000;
+}
+
+.ponchik {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	top: -3590px;
+	margin-left: 700px;
+}
+
+.linethird {
+	position: relative;
+	top: -3630px;
+	width: 1519px;
+	z-index: 1000;
+}
+
+.blocks_second {
+	position: relative;
+	top: -2900px;
+}
